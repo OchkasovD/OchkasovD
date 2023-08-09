@@ -28,7 +28,5 @@
 <code><img height="40" src="media/zabbix.png"></code>
 <code><img height="40" src="media/postman.png"></code>
 
-### 📈 моя статистика на гитхабе
 
-<p > <img src="https://github-readme-stats.vercel.app/api?username=OchkasovD&show_icons=true&theme=transparent&rank_icon=percentile" alt="Ochkasov" />
 
